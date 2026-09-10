@@ -1,6 +1,5 @@
 # Personal-web
-Personal website featuring my projects and documentation
 
-when it´s ready it will be on github pages
+Personal website featuring my projects and documentation
 
 (under development) 
